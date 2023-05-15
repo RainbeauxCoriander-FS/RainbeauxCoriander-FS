@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: they/them 
 - 🔭 I’m currently a student at Full Sail University to get a Bachelors in Web Development.
-- 🌱 I’m currently learning some new github stuff, like making this Profile README file, and APTs, and more advanced JavaScript. 
+- 🌱 I’m currently learning some new github stuff, like making this Profile README file, using APIs, and more advanced JavaScript. 
 - 👯 I’m NOT looking to collaborate yet, but stay tuned!
 - 🤔 I’m looking for help with talking to my rubber ducky. IYKYK.
 - 💬 Ask me about ...
